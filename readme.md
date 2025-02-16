@@ -160,5 +160,3 @@ Infine, chiudiamo la connessione al database per liberare le risorse.
 ## Conclusione
 
 SkinRestorer.js è una libreria potente e semplice da usare per ottenere le skin dei giocatori in un'applicazione JavaScript. Assicurati di sostituire le credenziali del database con quelle corrette per il tuo ambiente. Buon divertimento con il tuo progetto!
-
-Nonaffi
